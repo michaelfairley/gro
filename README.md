@@ -11,4 +11,5 @@ go {
 puts "#{~chan} #{~chan}"
 ```
 
-Take a look at lib/gro.rb
+
+Take a look at lib/gro.rb :trollface:
